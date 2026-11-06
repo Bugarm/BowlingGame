@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "scene": "BowlingRoom_Complete",
+  "mesh_objects": 242,
+  "triangles": 10615,
+  "zero_area_objects": [],
+  "missing_images": [],
+  "routes": [
+    {
+      "route": "Start_to_pickup",
+      "waypoints_xy_m": [
+        [
+          0,
+          -2.75
+        ],
+        [
+          1.15,
+          -2.25
+        ]
+      ],
+      "player_radius_m": 0.35,
+      "min_obstacle_clearance_from_centre_m": 0.5004999399185182
+    },
+    {
+      "route": "Pickup_to_throw",
+      "waypoints_xy_m": [
+        [
+          1.15,
+          -2.25
+        ],
+        [
+          0.6,
+          -1.8
+        ],
+        [
+          0,
+          -0.65
+        ]
+      ],
+      "player_radius_m": 0.35,
+      "min_obstacle_clearance_from_centre_m": 0.5004999399185182
+    }
+  ],
+  "source_assets_linked_and_transforms_checked": true,
+  "floor_route_height_checked": true,
+  "gutters_not_filled_by_room_floor": true,
+  "pins": 10,
+  "balls": 3,
+  "plants": 6,
+  "blank_screen": true,
+  "unity_xr_tested": false,
+  "clearance_test_limit": "Static 0.35 m horizontal radius / 1.8 m tall proxy against bounding boxes; not XR reach, collision or comfort validation."
+}

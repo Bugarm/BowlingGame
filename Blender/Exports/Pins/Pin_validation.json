@@ -1,0 +1,74 @@
+{
+  "height_m": 0.38,
+  "width_m": 0.13291960507757405,
+  "vertices": 168,
+  "triangles_per_pin": 332,
+  "rack_triangles": 3320,
+  "radial_sides": 12,
+  "profile_rings": 14,
+  "materials": 1,
+  "texture": "64x16 PinPalette.png",
+  "non_manifold_edges": 0,
+  "zero_area_faces": 0,
+  "volume_m3": 0.002409351620843817,
+  "red_face_count": 24,
+  "reference_profile_pixels": [
+    [
+      1478,
+      85
+    ],
+    [
+      1450,
+      105
+    ],
+    [
+      1328,
+      172
+    ],
+    [
+      1130,
+      240
+    ],
+    [
+      995,
+      248
+    ],
+    [
+      852,
+      223
+    ],
+    [
+      605,
+      113
+    ],
+    [
+      525,
+      95
+    ],
+    [
+      475,
+      95
+    ],
+    [
+      385,
+      112
+    ],
+    [
+      250,
+      152
+    ],
+    [
+      170,
+      141
+    ],
+    [
+      75,
+      60
+    ],
+    [
+      60,
+      30
+    ]
+  ],
+  "unity_import_tested": false
+}

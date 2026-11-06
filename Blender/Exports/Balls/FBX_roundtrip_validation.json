@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "balls": [
+    {
+      "file": "BowlingBall_Red.fbx",
+      "triangles": 494,
+      "bounds_m": [
+        [
+          -0.10850000381469727,
+          0.10849999636411667
+        ],
+        [
+          -0.10850001126527786,
+          0.10850001126527786
+        ],
+        [
+          -0.10850001126527786,
+          0.10850001126527786
+        ]
+      ],
+      "centre_pivot": true,
+      "uv_and_texture_present": true,
+      "hole_depths_from_nominal_sphere_m": [
+        0.0475,
+        0.0475,
+        0.0475
+      ]
+    },
+    {
+      "file": "BowlingBall_Blue.fbx",
+      "triangles": 494,
+      "bounds_m": [
+        [
+          -0.10850000381469727,
+          0.10849999636411667
+        ],
+        [
+          -0.10850001126527786,
+          0.10850001126527786
+        ],
+        [
+          -0.10850001126527786,
+          0.10850001126527786
+        ]
+      ],
+      "centre_pivot": true,
+      "uv_and_texture_present": true,
+      "hole_depths_from_nominal_sphere_m": [
+        0.0475,
+        0.0475,
+        0.0475
+      ]
+    },
+    {
+      "file": "BowlingBall_Green.fbx",
+      "triangles": 494,
+      "bounds_m": [
+        [
+          -0.10850000381469727,
+          0.10849999636411667
+        ],
+        [
+          -0.10850001126527786,
+          0.10850001126527786
+        ],
+        [
+          -0.10850001126527786,
+          0.10850001126527786
+        ]
+      ],
+      "centre_pivot": true,
+      "uv_and_texture_present": true,
+      "hole_depths_from_nominal_sphere_m": [
+        0.0475,
+        0.0475,
+        0.0475
+      ]
+    }
+  ],
+  "unity_import_tested": false
+}

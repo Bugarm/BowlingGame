@@ -1,0 +1,101 @@
+{
+  "revision": "002",
+  "meshes": [
+    {
+      "name": "Lane_Foundation",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Approach_Foundation",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Lane_Wood_Edge",
+      "vertices": 8,
+      "triangles": 12
+    },
+    {
+      "name": "Approach_Wood_Edge",
+      "vertices": 8,
+      "triangles": 12
+    },
+    {
+      "name": "Lane_Surface",
+      "vertices": 1772,
+      "triangles": 886
+    },
+    {
+      "name": "Approach_Surface",
+      "vertices": 848,
+      "triangles": 424
+    },
+    {
+      "name": "Gutter_Left",
+      "vertices": 20,
+      "triangles": 36
+    },
+    {
+      "name": "Edge_Rail_Left",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Gutter_Right",
+      "vertices": 20,
+      "triangles": 36
+    },
+    {
+      "name": "Edge_Rail_Right",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Lane_Aiming_Inlays",
+      "vertices": 189,
+      "triangles": 133
+    },
+    {
+      "name": "Foul_Line",
+      "vertices": 4,
+      "triangles": 2
+    },
+    {
+      "name": "Pin_Pit_Base",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Pit_Backstop",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Pin_Deck_Spots",
+      "vertices": 80,
+      "triangles": 60
+    }
+  ],
+  "triangles": 1865,
+  "materials": 1,
+  "texture": "256x16 LanePalette.png",
+  "lane_width_m": 1.0668,
+  "head_pin_y_m": 7,
+  "deck_end_y_m": 8.262,
+  "bounds_y_m": [
+    -1.5,
+    9.082
+  ],
+  "arrow_centres_y_m": [
+    0.99,
+    1.21,
+    1.43,
+    1.65,
+    1.43,
+    1.21,
+    0.99
+  ],
+  "zero_area_faces": 0,
+  "unity_import_tested": false
+}

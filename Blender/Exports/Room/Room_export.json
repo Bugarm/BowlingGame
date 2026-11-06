@@ -1,0 +1,217 @@
+{
+  "fbx": "F:\\UnityProjects\\BowlingGame\\BowlingGame\\Blender\\Exports\\Room\\BowlingRoom.fbx",
+  "fbx_bytes": 821404,
+  "selected": 247,
+  "meshes": 243,
+  "empties": 4,
+  "triangles": 10659,
+  "palettes": [
+    {
+      "name": "RoomPalette",
+      "path": "F:\\UnityProjects\\BowlingGame\\BowlingGame\\Blender\\Exports\\Room\\RoomPalette.png",
+      "size": [
+        256,
+        16
+      ]
+    },
+    {
+      "name": "LanePalette",
+      "path": "F:\\UnityProjects\\BowlingGame\\BowlingGame\\Blender\\Exports\\Room\\LanePalette.png",
+      "size": [
+        256,
+        16
+      ]
+    },
+    {
+      "name": "PinPalette",
+      "path": "F:\\UnityProjects\\BowlingGame\\BowlingGame\\Blender\\Exports\\Room\\PinPalette.png",
+      "size": [
+        64,
+        16
+      ]
+    },
+    {
+      "name": "BallPalette",
+      "path": "F:\\UnityProjects\\BowlingGame\\BowlingGame\\Blender\\Exports\\Room\\BallPalette.png",
+      "size": [
+        128,
+        16
+      ]
+    },
+    {
+      "name": "ReturnPalette",
+      "path": "F:\\UnityProjects\\BowlingGame\\BowlingGame\\Blender\\Exports\\Room\\ReturnPalette.png",
+      "size": [
+        128,
+        16
+      ]
+    }
+  ],
+  "markers": {
+    "Player_Start": {
+      "blender": [
+        0.0,
+        -2.75,
+        0.0
+      ],
+      "unity": [
+        0.0,
+        0.0,
+        -2.75
+      ]
+    },
+    "Ball_Pickup_Stance": {
+      "blender": [
+        1.149999976158142,
+        -2.25,
+        0.0
+      ],
+      "unity": [
+        1.149999976158142,
+        0.0,
+        -2.25
+      ]
+    },
+    "Throw_Stance": {
+      "blender": [
+        0.0,
+        -0.6499999761581421,
+        0.0
+      ],
+      "unity": [
+        0.0,
+        0.0,
+        -0.6499999761581421
+      ]
+    }
+  },
+  "camera": {
+    "blender": [
+      0.0,
+      -3.6500000953674316,
+      1.649999976158142
+    ],
+    "unity": [
+      0.0,
+      1.649999976158142,
+      -3.6500000953674316
+    ],
+    "lens": 23.0
+  },
+  "pins": [
+    {
+      "name": "Room_Pin_01",
+      "unity": [
+        0.0,
+        0.0,
+        7.0
+      ]
+    },
+    {
+      "name": "Room_Pin_02",
+      "unity": [
+        -0.15240000188350677,
+        0.0,
+        7.263999938964844
+      ]
+    },
+    {
+      "name": "Room_Pin_03",
+      "unity": [
+        0.15240000188350677,
+        0.0,
+        7.263999938964844
+      ]
+    },
+    {
+      "name": "Room_Pin_04",
+      "unity": [
+        -0.30480000376701355,
+        0.0,
+        7.5279998779296875
+      ]
+    },
+    {
+      "name": "Room_Pin_05",
+      "unity": [
+        0.0,
+        0.0,
+        7.5279998779296875
+      ]
+    },
+    {
+      "name": "Room_Pin_06",
+      "unity": [
+        0.30480000376701355,
+        0.0,
+        7.5279998779296875
+      ]
+    },
+    {
+      "name": "Room_Pin_07",
+      "unity": [
+        -0.45719999074935913,
+        0.0,
+        7.791999816894531
+      ]
+    },
+    {
+      "name": "Room_Pin_08",
+      "unity": [
+        -0.15240000188350677,
+        0.0,
+        7.791999816894531
+      ]
+    },
+    {
+      "name": "Room_Pin_09",
+      "unity": [
+        0.15240000188350677,
+        0.0,
+        7.791999816894531
+      ]
+    },
+    {
+      "name": "Room_Pin_10",
+      "unity": [
+        0.45719999074935913,
+        0.0,
+        7.791999816894531
+      ]
+    }
+  ],
+  "balls": [
+    {
+      "name": "Room_Ball_Red",
+      "unity": [
+        1.899999976158142,
+        0.4237000048160553,
+        -2.5199999809265137
+      ]
+    },
+    {
+      "name": "Room_Ball_Blue",
+      "unity": [
+        1.899999976158142,
+        0.4237000048160553,
+        -2.2750000953674316
+      ]
+    },
+    {
+      "name": "Room_Ball_Green",
+      "unity": [
+        1.899999976158142,
+        0.4237000048160553,
+        -2.0299999713897705
+      ]
+    }
+  ],
+  "axis_forward": "-Z",
+  "axis_up": "Y",
+  "unity_mapping": "blender (x,y,z) -> unity (x,z,y); blender +Y toward pins becomes unity +Z",
+  "excluded": [
+    "ROOM | Blender lighting - do not export",
+    "ROOM | Review cameras - do not export",
+    "ROOM | Layout markers - do not export"
+  ]
+}

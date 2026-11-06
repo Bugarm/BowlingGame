@@ -1,0 +1,105 @@
+{
+  "meshes": [
+    {
+      "name": "Return_Housing",
+      "triangles": 64
+    },
+    {
+      "name": "Return_Rear_Cover",
+      "triangles": 28
+    },
+    {
+      "name": "Return_Housing_Plinth",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Rear_Service_Panel",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Rear_Red_Badge",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Tray_Chassis",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Tray_Wood",
+      "triangles": 12
+    },
+    {
+      "name": "Return_Wood_Strips",
+      "triangles": 12
+    },
+    {
+      "name": "Return_Rail_Left",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Rail_Dark_Top_Left",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Stop_Cap_Left",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Red_Slash_Left",
+      "triangles": 2
+    },
+    {
+      "name": "Return_Rail_Right",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Rail_Dark_Top_Right",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Stop_Cap_Right",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Red_Slash_Right",
+      "triangles": 2
+    },
+    {
+      "name": "Return_Front_Stop",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Tray_Leg",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Tray_Foot",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Light_Recess",
+      "triangles": 44
+    },
+    {
+      "name": "Return_Warm_Light",
+      "triangles": 44
+    }
+  ],
+  "triangles": 780,
+  "materials": 2,
+  "texture": "128x16 ReturnPalette.png",
+  "capacity": 3,
+  "preview_balls_exported": false,
+  "nominal_size_m": [
+    0.6600000262260437,
+    1.5869998931884766,
+    0.7300000190734863
+  ],
+  "ball_centres_y_m": [
+    -1.02,
+    -0.775,
+    -0.53
+  ],
+  "ball_diameter_m": 0.217,
+  "unity_import_tested": false
+}

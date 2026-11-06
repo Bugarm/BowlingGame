@@ -1,0 +1,41 @@
+{
+  "balls": [
+    {
+      "name": "BowlingBall_Red",
+      "vertices": 249,
+      "triangles": 494,
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "volume_m3": 0.005118286363606444,
+      "interior_faces": 39
+    },
+    {
+      "name": "BowlingBall_Blue",
+      "vertices": 249,
+      "triangles": 494,
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "volume_m3": 0.005118286363606444,
+      "interior_faces": 39
+    },
+    {
+      "name": "BowlingBall_Green",
+      "vertices": 249,
+      "triangles": 494,
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "volume_m3": 0.005118286363606444,
+      "interior_faces": 39
+    }
+  ],
+  "nominal_diameter_m": 0.217,
+  "materials": 1,
+  "texture": "128x16 BallPalette.png",
+  "hole_radii_m": [
+    0.01,
+    0.01,
+    0.013
+  ],
+  "hole_bottom_radius_m": 0.061,
+  "unity_import_tested": false
+}

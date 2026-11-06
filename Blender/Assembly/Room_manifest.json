@@ -1,0 +1,90 @@
+{
+  "scene": "BowlingRoom_Complete",
+  "collections": [
+    {
+      "collection": "ROOM | Floor and walls",
+      "mesh_objects": 29,
+      "triangles": 148
+    },
+    {
+      "collection": "ROOM | Ceiling",
+      "mesh_objects": 7,
+      "triangles": 84
+    },
+    {
+      "collection": "ROOM | Trim and furniture",
+      "mesh_objects": 34,
+      "triangles": 860
+    },
+    {
+      "collection": "ROOM | Potted plants",
+      "mesh_objects": 90,
+      "triangles": 1152
+    },
+    {
+      "collection": "ROOM | Light fixture meshes",
+      "mesh_objects": 24,
+      "triangles": 624
+    },
+    {
+      "collection": "ROOM | Blank screen and pin surround",
+      "mesh_objects": 9,
+      "triangles": 300
+    },
+    {
+      "collection": "ROOM | Lane",
+      "mesh_objects": 15,
+      "triangles": 1865
+    },
+    {
+      "collection": "ROOM | Ten pins",
+      "mesh_objects": 10,
+      "triangles": 3320
+    },
+    {
+      "collection": "ROOM | Ball return",
+      "mesh_objects": 21,
+      "triangles": 780
+    },
+    {
+      "collection": "ROOM | Three balls",
+      "mesh_objects": 3,
+      "triangles": 1482
+    }
+  ],
+  "triangles": 10615,
+  "interior_dimensions_m": [
+    5.6,
+    13.8,
+    3.3
+  ],
+  "lane_head_pin_y_m": 7,
+  "ball_return_root": [
+    1.9,
+    -1.5,
+    0
+  ],
+  "player_start": [
+    0,
+    -2.75,
+    0
+  ],
+  "pickup_stance": [
+    1.15,
+    -2.25,
+    0
+  ],
+  "throw_stance": [
+    0,
+    -0.65,
+    0
+  ],
+  "pins": 10,
+  "balls": 3,
+  "plants": 6,
+  "pendants": 6,
+  "unity_import_tested": true,
+  "export_deferred": false,
+  "unity_scene": "Assets/Scenes/BowlingAlley.unity",
+  "unity_fbx": "Assets/Models/Bowling/BowlingRoom.fbx"
+}
